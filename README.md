@@ -1,20 +1,15 @@
 # Challenge Two
 
-> Initial Figma Design
+### Initial Figma Design
+> 
+
 ![Challenge Three](https://user-images.githubusercontent.com/50916200/178146032-672f7071-e25f-4d71-a367-a67c83973ef7.PNG)
 
-> End Product
-
-
+### End Product
+>
 ![Solution](https://user-images.githubusercontent.com/50916200/178146011-36feb9c9-eb0b-4d9c-a599-9b71c3437f70.PNG)
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+# Step by Step installation
 
 ### `npm start`
 
